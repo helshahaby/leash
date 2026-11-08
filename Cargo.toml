@@ -1,0 +1,3 @@
+[workspace]
+members = ["programs/leash"]
+resolver = "2"

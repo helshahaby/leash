@@ -1,0 +1,24 @@
+{
+  "name": "leash",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "setup": "tsx src/setup.ts",
+    "merchant": "tsx src/merchant.ts",
+    "agent": "tsx src/agent.ts",
+    "attack": "tsx src/agent.ts --attack",
+    "revoke": "tsx src/revoke.ts",
+    "check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@solana/spl-token": "^0.4.9",
+    "@solana/web3.js": "^1.98.0",
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}

@@ -1,0 +1,8 @@
+[toolchain]
+[features]
+seeds = false
+[programs.devnet]
+leash = "REPLACE_WITH_PROGRAM_ID"
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
