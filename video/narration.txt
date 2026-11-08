@@ -1,0 +1,6 @@
+0:00  AI agents can pay for things now. Would you hand one your private key?
+0:05  Leash gives it a budget instead: ten cents per payment, a dollar a day, one approved merchant.
+0:12  The agent pays two cents for an API call, and gets its data in about a second.
+0:24  Now it's hijacked, and told to send four dollars to a stranger. The program refuses. Every time.
+0:36  One transaction revokes the agent completely.
+0:41  Leash. Give your agent a budget, not your wallet.

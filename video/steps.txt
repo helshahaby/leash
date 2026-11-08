@@ -1,0 +1,4 @@
+Put leash-demo.mp4, music.wav and add_voice.py in one folder.
+Run export ELEVEN_API_KEY=... in your own terminal. Don’t paste the key into this chat.
+Run pip install requests, then python add_voice.py. It needs ffmpeg installed.
+It writes leash-demo-final.mp4, with each line timed to its scene and the music ducked under the voice.
